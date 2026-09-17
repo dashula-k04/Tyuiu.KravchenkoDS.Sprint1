@@ -6,7 +6,7 @@ namespace Tyuiu.KravchenkoDS.Sprint1.Task1.V17
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-              
-        }
+               
+        }  
     }
 }
